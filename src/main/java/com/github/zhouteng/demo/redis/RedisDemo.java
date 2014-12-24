@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
+ * redis demo
  * Created by xz on 2014/12/24.
  */
 public class RedisDemo {
